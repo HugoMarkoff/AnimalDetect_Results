@@ -1,7 +1,3 @@
-Sure! Here’s a **user-friendly guide** for running the different versions of **AnimalDetectSorter** across **Windows, macOS, and Linux**. The guide is structured so that users can easily find the relevant instructions for their operating system.
-
----
-
 # **🐾 AnimalDetectSorter - User Guide**
 
 ## **📂 General Instructions**
